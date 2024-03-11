@@ -10,7 +10,7 @@
     <h4>Artist: Addie</h4>
 
     <?php
-       echo" Lyrics: <br><br>";
+       echo" Song Lyrics: <br><br>";
        echo"Sa unang tingin, agad na nahumaling <br>";
        echo"Sa nagniningning mong mga mata <br>";
        echo"Ika'y isang bituin na nagmula sa langit <br>";
