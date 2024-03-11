@@ -10,7 +10,7 @@
     <h4>Artist: Louis Armstrong</h4>
 
     <?php
-       echo" Lyrics: <br><br>";
+       echo"Song Lyrics: <br><br>";
        echo"I see trees of green
        <br>";
        echo"Red roses too
