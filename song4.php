@@ -10,7 +10,7 @@
     <h4>Artist: Sunkissed Lola</h4>
 
     <?php
-       echo" Lyrics: <br><br>";
+       echo"Song Lyrics: <br><br>";
        echo"Palad ay basang-basa
        <br>";
        echo"Ang dagitab ay damang-dama
