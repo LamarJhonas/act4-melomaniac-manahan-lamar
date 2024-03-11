@@ -10,7 +10,7 @@
     <h4>Artist: Ariana Grande</h4>
 
     <?php
-       echo" Lyrics: <br><br>";
+       echo"Song Lyrics: <br><br>";
        echo"When raindrops fell down from the sky
        <br>";
        echo"The day you left me, an angel cried
