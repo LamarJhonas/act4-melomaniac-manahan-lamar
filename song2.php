@@ -10,7 +10,7 @@
     <h4>Artist: Taylor Swift</h4>
 
     <?php
-       echo" Lyrics: <br><br>";
+       echo"Song Lyrics: <br><br>";
        echo"I'd never gone with the wind, just let it flow
        <br>";
        echo"Let it take me where it wants to go
